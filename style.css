@@ -1,0 +1,69 @@
+.box{
+    background-color:rgb(212, 236, 153);
+    display:flex;
+    justify-content:center;
+}
+
+.chat-logs{
+    padding-bottom: 922px;
+    /* border:2px solid rgb(8, 1, 1); */
+}
+.chat-logs-default{
+    padding-bottom: 922px;
+}
+
+.aligh-chat-left{
+    margin-left: 364px;
+    margin-top: 30px;
+    border:2px solid rgb(8, 1, 1);
+    border-radius:5px;
+    padding: 20px;
+}
+
+.chat-text-area{
+    margin-top: 20px;
+    width: 500px;
+    height: 50px;
+}
+.send-button{
+    margin-left: 12px;
+}
+
+.chat-block-summary{
+    margin-top:10px;
+    border:2px solid rgb(8, 1, 1);
+}
+
+.image-item{
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-left: 5px;
+}
+
+.item-date{
+    margin-left: 100px;
+}
+
+.order-item{
+    margin-left:10px
+}
+
+.specifc-chat-section{
+    margin-left:10px;
+}
+
+.single-message{
+    border:2px solid rgb(8, 1, 1);
+    border-radius:5px;
+    margin-left:15px;
+    padding: 20px;
+}
+.message-options{
+    color:blue;
+    margin-left:15px;
+}
+
+.message-sub-options{
+    color:gray;
+    margin-left:15px;
+}
